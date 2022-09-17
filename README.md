@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=SenaYcdl&show_icons=true&theme=radical)
 
 
+https://github.com/SenaYcdl/SenaYcdl/blob/output/github-contribution-grid-snake.svg
+
