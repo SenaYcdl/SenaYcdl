@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
 
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=SenaYcdl&show_icons=true&theme=omni)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=SenaYcdl&show_icons=true&theme=jolly)
 
 ![snake gif](https://github.com/SenaYcdl/SenaYcdl/blob/output/github-contribution-grid-snake.svg)
 
