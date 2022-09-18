@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love coding and my favorite programmig language is Java.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
+[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sena-y%C3%BCcedal-98785a233/)
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=SenaYcdl&show_icons=true&theme=jolly)
