@@ -25,3 +25,8 @@ Here are some ideas to get you started:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
 
 ![Alt Text](https://github.com/SenaYcdl/SenaYcdl/blob/main/7fdce2dc9307aff4f5acb88cc06b5904.gif)
+
+ /\____/\
+(   • ༝  •)
+ /づ💗 \
+  ♡   ♡
