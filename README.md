@@ -1,4 +1,5 @@
-### Hi there 👋
+### Bonjour Tout Le Monde 👋
+>^•-•^<
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on coding...
@@ -6,6 +7,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about Java, PostgreSql, Lambda, HTML, JDBC, Selenium, STLC, SDLC, API, Jenkins, Cucumber...
 - 📫 How to reach me: sena.ycdl61@gmail.com
 - ⚡ Fun fact: I love coding and my favorite programmig language is Java.
+^•ﻌ•^
+
 
 
 
