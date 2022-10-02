@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 
 ![Alt Text](https://github.com/SenaYcdl/SenaYcdl/blob/main/7fdce2dc9307aff4f5acb88cc06b5904.gif)
 
+
  /\____/\
-(   • ༝  •)
+(   • ༝  •  )
  /づ💗 \
   ♡   ♡
