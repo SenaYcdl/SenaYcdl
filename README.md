@@ -6,7 +6,7 @@
 
 - 🌺 I’m currently learning IT World ❀
 
-- 💻 Ask me about Java, PostgreSql, Lambda, HTML, JDBC, Selenium, STLC, SDLC, API, Jenkins, Cucumber 
+- 💻 Ask me about Java, PostgreSql, Lambda, HTML, JDBC, Selenium, STLC, SDLC, API, Jenkins, Cucumber ✰
 
 - 💌 How to reach me: sena.ycdl61@gmail.com 💟
 
