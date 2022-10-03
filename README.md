@@ -2,7 +2,7 @@
 ### Bonjour Tout le Monde >^•-•^<
 
 
-- 🌼 I’m currently working on coding 
+- 🌼 I’m currently working on coding ッ
 
 - 🌺 I’m currently learning IT World ❀
 
