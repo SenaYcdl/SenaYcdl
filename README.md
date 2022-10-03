@@ -1,6 +1,7 @@
 
 ### Bonjour Tout le Monde >^•-•^<
 
+☾
 
 - 🌼 I’m currently working on coding...
 
@@ -12,8 +13,9 @@
 
 - ⭐ Fun fact: I love coding and my favorite programmig language is Java.  
 
+☾
 
-ฅ^•ﻌ•^ฅ
+ฅ^•ﻌ•^ฅ  
 
 
 
