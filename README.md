@@ -2,6 +2,7 @@
 ### Bonjour Tout le Monde >^•-•^<
 
 
+
 - 🌼 I’m currently working on coding ッ
 
 - 🌺 I’m currently learning IT World ❀
@@ -26,6 +27,7 @@
 
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+<img align=above width=50 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/6d33586634c5de45fa5f6428020c86f6.jpg" />
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sena-y%C3%BCcedal-98785a233/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
