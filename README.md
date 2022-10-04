@@ -14,6 +14,8 @@
 - ⭐ Fun fact: I love coding and my favorite programmig language is Java. 🐞
 
 
+
+
 ฅ^•ﻌ•^ฅ  
 
 
@@ -21,6 +23,7 @@
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=SenaYcdl&show_icons=true&theme=jolly)
+<img align=above width=129 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/54b5b572a814ce721e1b01adabed5c84.gif" />
 
 
 ![snake gif](https://github.com/SenaYcdl/SenaYcdl/blob/output/github-contribution-grid-snake.svg)
@@ -34,6 +37,7 @@
 <img align=above width=60 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/6d33586634c5de45fa5f6428020c86f6.jpg" />
 
 ![Alt Text](https://github.com/SenaYcdl/SenaYcdl/blob/main/7fdce2dc9307aff4f5acb88cc06b5904.gif) 
+
 
 
 
