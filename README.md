@@ -31,11 +31,11 @@
 
 ![snake gif](https://github.com/SenaYcdl/SenaYcdl/blob/output/github-contribution-grid-snake.svg)
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sena-y%C3%BCcedal-98785a233/)
-<img align=center width=100 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/65bcebd0e225bc8fb2ad79fff09523ee.gif" />
+<img align=beside width=100 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/65bcebd0e225bc8fb2ad79fff09523ee.gif" />
+
 
 
 <img align=center width=300 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/3f11b653258af68f56efa1e944388c6a.gif" />
