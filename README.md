@@ -1,5 +1,5 @@
 
-### Bonjour Tout le Monde <img align=beside width=85 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/c9a9fa3a1fd58f70df1a05ade71ae6fe.gif" />
+### Bonjour Tout le Monde<img align=beside width=85 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/c9a9fa3a1fd58f70df1a05ade71ae6fe.gif" />
 
 
 
@@ -38,8 +38,7 @@
 
 
 
-<img align=center width=300 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/3f11b653258af68f56efa1e944388c6a.gif" />
-
+<img align=center width=300 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/3f11b653258af68f56efa1e944388c6a.gif" /><img align=beside width=300 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/3f11b653258af68f56efa1e944388c6a.gif" /><img align=center width=300 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/3f11b653258af68f56efa1e944388c6a.gif" />
 
 
 
