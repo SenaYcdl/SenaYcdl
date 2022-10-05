@@ -36,8 +36,9 @@
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sena-y%C3%BCcedal-98785a233/)
 
-<img align=above width=60 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/6d33586634c5de45fa5f6428020c86f6.jpg" />
 
+
+<img align=center width=300 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/3f11b653258af68f56efa1e944388c6a.gif" />
 
 
 
