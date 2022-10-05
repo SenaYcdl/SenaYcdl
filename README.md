@@ -38,7 +38,7 @@
 
 
 
-<img align=center width=300 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/3f11b653258af68f56efa1e944388c6a.gif" /><img align=beside width=300 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/3f11b653258af68f56efa1e944388c6a.gif" /><img align=center width=300 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/3f11b653258af68f56efa1e944388c6a.gif" />
+<img align=center width=300 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/3f11b653258af68f56efa1e944388c6a.gif" /><img align=beside width=300 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/3f11b653258af68f56efa1e944388c6a.gif" />
 
 
 
