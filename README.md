@@ -1,15 +1,15 @@
 
-### Bonjour Tout le Monde <img align=above width=85 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/c9a9fa3a1fd58f70df1a05ade71ae6fe.gif" />
+### Bonjour Tout le Monde <img align=beside width=85 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/c9a9fa3a1fd58f70df1a05ade71ae6fe.gif" />
 
 
 
 
 
-- 🌼 I’m currently working on coding ッ
+- 🌼 I’m currently working on coding 
 
-- 🌺 I’m currently learning IT World ❀
+- 🌺 I’m currently learning IT World 
 
-- 💻 Ask me about Java, PostgreSql, Lambda, HTML, JDBC, Selenium, STLC, SDLC, API, Jenkins, Cucumber ✰
+- 💻 Ask me about Java, PostgreSql, Lambda, HTML, JDBC, Selenium, STLC, SDLC, API, Jenkins, Cucumber 
 
 - 💌 How to reach me: sena.ycdl61@gmail.com 💟
 
