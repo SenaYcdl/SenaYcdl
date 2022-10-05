@@ -40,7 +40,7 @@
 <img align=above width=60 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/6d33586634c5de45fa5f6428020c86f6.jpg" />
 
 
-<img align=above width=350 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/29a32ccecd9518c74e338b5f42a7064a.gif" />
+
 
 
 
