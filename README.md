@@ -36,11 +36,11 @@
 
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sena-y%C3%BCcedal-98785a233/)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
+
 <img align=above width=60 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/6d33586634c5de45fa5f6428020c86f6.jpg" />
 
-![Alt Text](https://github.com/SenaYcdl/SenaYcdl/blob/main/7fdce2dc9307aff4f5acb88cc06b5904.gif) 
 
+<img align=above width=350 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/29a32ccecd9518c74e338b5f42a7064a.gif" />
 
 
 
