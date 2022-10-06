@@ -25,7 +25,7 @@
 
 
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=SenaYcdl&show_icons=true&theme=jolly)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SenaYcdl&show_icons=true&theme=omni)
 <img align=above width=129 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/54b5b572a814ce721e1b01adabed5c84.gif" />
 
 
