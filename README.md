@@ -7,7 +7,7 @@
 
 - 🌼 I’m currently working on coding
 
-- 🌺 I’m currently learning IT
+- 🌺 I’m currently learning IT World 
 
 - 💻 Ask me about Java, PostgreSql, Lambda, HTML-Css, JDBC, Selenium, STLC, SDLC, API, Jenkins, Cucumber...
 
