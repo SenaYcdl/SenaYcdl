@@ -5,7 +5,7 @@
 
 
 
-- 🌼 I’m currently working on 
+- 🌼 I’m currently working on coding and 
 
 - 🌺 I’m currently learning IT World 
 
