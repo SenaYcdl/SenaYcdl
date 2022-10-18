@@ -13,7 +13,7 @@
 
 - 💌 How to reach me: sena.ycdl61@gmail.com
 
-- ⭐ Fun fact: I love coding  favorite programming language is Java. 
+- ⭐ Fun fact: I love coding and my favorite programming language is Java. 
 
 
 
