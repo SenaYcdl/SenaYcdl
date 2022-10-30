@@ -9,7 +9,7 @@
 
 - 🌺 I’m currently learning IT World
 
-- 💻 Ask me about Java, PostgreSQL , Lambda, HTML-Css, JDBC, Selenium, STLC, SDLC, API, Jenkins, Cucumber , Postman...
+- 💻 Ask me about Java, PostgreSQL , Lambda, HTML-CSS, JDBC, Selenium, STLC, SDLC, API, Jenkins, Cucumber , Postman...
 
 - 💌 How to reach me: sena.ycdl61@gmail.com
 
