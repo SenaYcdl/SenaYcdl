@@ -11,7 +11,7 @@
 
 - 💻 Ask me about Java, PostgreSql, Lambda, HTML-Css, JDBC, Selenium, STLC, SDLC, API, Jenkins, Cucumber...
 
-- 💌 How to reach me: 
+- 💌 How to reach me: sena.ycdl61@gmail.com
 
 - ⭐ Fun fact: I love coding and my favorite programming language is Java. 
 
