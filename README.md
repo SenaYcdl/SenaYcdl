@@ -51,3 +51,16 @@
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
 --!>
+
+
+
+
+<!--
+<p align="center"> <img src="https://github.com/SenaYcdl/SenaYcdl/blob/main/AshamedEnergeticAlaskankleekai-size_restricted.gif"  width="500" /> </p>
+
+
+<h1 align="center">Hi, 👋🏻 I'm Yahya Yazıcıoglu<h1>
+  
+  
+<h3 align="center">Full Stack Automation Engineer</h3>
+--!>
