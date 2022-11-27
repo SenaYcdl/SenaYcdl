@@ -55,7 +55,7 @@
 
 
 <!--
-<p align="center"> <img src="https://github.com/SenaYcdl/SenaYcdl/blob/main/AshamedEnergeticAlaskankleekai-size_restricted.gif"  width="500" /> </p>
+<p align="center"> <img src="https://github.com/SenaYcdl/SenaYcdl/blob/main/1473779848-lionel-messi-gif.gif"  width="500" /> </p>
 
 
 <h1 align="center">Hi, 👋🏻 I'm Yahya Yazıcıoglu<h1>
