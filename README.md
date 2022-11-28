@@ -17,16 +17,13 @@
 
 
 
+<p align="center">
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SenaYcdl&theme=onedark&show_icons=true&count_private=true)"/>
+      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SenaYcdl&layout=compact&langs_count=8&theme=onedark"/>
+</p>
 
 
 
-
-
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SenaYcdl&show_icons=true&theme=synthwave)
-<img align=above width=129 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/54b5b572a814ce721e1b01adabed5c84.gif" />
 
 
 ![snake gif](https://github.com/SenaYcdl/SenaYcdl/blob/output/github-contribution-grid-snake.svg)
