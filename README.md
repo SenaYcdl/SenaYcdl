@@ -18,8 +18,8 @@
 
 
 <p align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SenaYcdl&theme=material-palenight&show_icons=true&count_private=true)"/>
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SenaYcdl&layout=compact&langs_count=8&theme=material-palenight"/>
+      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SenaYcdl&theme=synthwave&show_icons=true&count_private=true)"/>
+      <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SenaYcdl&layout=compact&langs_count=8&theme=synthwave"/>
 </p>
 
 
@@ -55,7 +55,7 @@
 <p align="center"> <img src="https://github.com/SenaYcdl/SenaYcdl/blob/main/1473779848-lionel-messi-gif.gif"  width="500" /> </p>
 
 
-<h1 align="center">Hi, 👋🏻 I'm Yahya Yazıcıoglu<h1>
+<h1 align="center">Hi, 👋🏻 <h1>
   
   
 <h3 align="center">Full Stack Automation Engineer</h3>
