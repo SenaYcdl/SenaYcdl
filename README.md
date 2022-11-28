@@ -18,8 +18,8 @@
 
 
 <p align="center">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SenaYcdl&theme=onedark&show_icons=true&count_private=true)"/>
-      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SenaYcdl&layout=compact&langs_count=8&theme=onedark"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SenaYcdl&theme=bear&show_icons=true&count_private=true)"/>
+      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SenaYcdl&layout=compact&langs_count=8&theme=bear"/>
 </p>
 
 
