@@ -77,7 +77,6 @@
 <a href="https://www.selenium.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/4b95df4d6ca7a01afc25d27159804dc5a7d0df41d8131aaf50c9f84847dfda21/68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67" alt="Selenium" width="50" height="50"/> </a>
 <a href="https://www.api.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3m3cQd-M2Gq5QXSik9qJSHGDBW3MvBoWFyA&usqp=CAU" alt="sql" width="50" height="50"/> </a>
   
-
 </p>
 <hr/>
 
@@ -91,5 +90,6 @@
 <a href="https://www.jira.com" target="_blank" rel="noreferrer"> <img src="https://yardimmasasi.atilim.edu.tr/images/atlassian-jira-logo-large.png" alt="Jira" width="80" height="40"/> </a>
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://media.bitdegree.org/storage/media/images/2018/11/jenkins-interview-questions-logo.png" alt="Jmeter" width="50" height="50"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+
 
 --!>
