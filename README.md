@@ -51,6 +51,8 @@
 
 
 
+
+
 <!--
 <p align="center"> <img src="https://github.com/SenaYcdl/SenaYcdl/blob/main/1473779848-lionel-messi-gif.gif"  width="500" /> </p>
 
@@ -90,6 +92,8 @@
 <a href="https://www.jira.com" target="_blank" rel="noreferrer"> <img src="https://yardimmasasi.atilim.edu.tr/images/atlassian-jira-logo-large.png" alt="Jira" width="80" height="40"/> </a>
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://media.bitdegree.org/storage/media/images/2018/11/jenkins-interview-questions-logo.png" alt="Jmeter" width="50" height="50"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+
+
 
 
 --!>
