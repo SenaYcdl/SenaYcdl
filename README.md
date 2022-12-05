@@ -17,13 +17,8 @@
 
 
 
-<p align="center">
-      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SenaYcdl&theme=synthwave&show_icons=true&count_private=true)"/>
-      <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SenaYcdl&layout=compact&langs_count=8&theme=synthwave"/>
-</p>
 
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SenaYcdl&show_icons=true&theme=synthwave)
 
 
 ![snake gif](https://github.com/SenaYcdl/SenaYcdl/blob/output/github-contribution-grid-snake.svg)
@@ -46,6 +41,12 @@
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
+
+<p align="center">
+      <img height=/>
+      <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SenaYcdl&layout=compact&langs_count=8&theme=synthwave"/>
+</p>
+
 --!>
 
 
