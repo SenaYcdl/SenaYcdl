@@ -94,6 +94,10 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
 
 
-
-
 --!>
+
+
+
+
+<p align="left">
+<a href="https://www.linkedin.com/in/nida-yucedal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="NidaYucedal" height="40" width="40" /></a>
