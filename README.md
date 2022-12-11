@@ -5,8 +5,7 @@
  
 
 <p align="center">
- <img height="100em" src="https://github.com/SenaYcdl/SenaYcdl/blob/main/result%20(1).gif">
-
+<img align=beside src="https://github.com/NidaYucedal/NidaYucedal/blob/main/result%20(2).gif" />
 
 
 
