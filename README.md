@@ -4,7 +4,7 @@
  
 
 <p align="center">
-<img align=beside src="https://github.com/NidaYucedal/NidaYucedal/blob/main/result%20(2).gif" />
+<img align=beside src="https://github.com/NidaYucedal/NidaYucedal/blob/main/result%20(3).gif" />
 
 
 
