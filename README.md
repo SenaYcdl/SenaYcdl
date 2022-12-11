@@ -1,7 +1,6 @@
 
 
-<p align="right">
- <img height="21em" src="https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000">
+
  
 
 <p align="center">
@@ -30,8 +29,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SenaYcdl&show_icons=true&theme=synthwave)<img align=beside width=100 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/c9a9fa3a1fd58f70df1a05ade71ae6fe.gif" />
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SenaYcdl&show_icons=true&theme=synthwave)
 
 ![snake gif](https://github.com/SenaYcdl/SenaYcdl/blob/output/github-contribution-grid-snake.svg)
 
