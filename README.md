@@ -5,7 +5,7 @@
                                              src="https://github.com/SenaYcdl/SenaYcdl/blob/main/girl6.jpg" /><h1>
   
   
-<h3 align="center">Full Stack Automation Engineer</h3>
+<h3 align="center"></h3>
 
 <p align="center">
       <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SenaYcdl&theme=solarized-light&show_icons=true&count_private=true)"/>
