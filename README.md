@@ -24,7 +24,7 @@
 
 - 💌 How to reach me: sena.ycdl61@gmail.com
 
-- ⭐ Fun fact: I love coding and my favorite programming language is Java. 
+- ⭐ Fun fact: I love coding and my favorite programming language is Java and JavaScript. 
 
 
 
@@ -60,13 +60,6 @@
 
 
 <!--
-<p align="center"> <img src="https://github.com/SenaYcdl/SenaYcdl/blob/main/1473779848-lionel-messi-gif.gif"  width="500" /> </p>
-
-
-<h1 align="center">Hi, 👋🏻 <h1>
-  
-  
-<h3 align="center">Full Stack Automation Engineer</h3>
 
 <p align="center">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SenaYcdl&theme=solarized-dark&show_icons=true&count_private=true)"/>
