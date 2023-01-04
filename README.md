@@ -7,10 +7,7 @@
   
 <h3 align="center"></h3>
 
-<p align="center">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SenaYcdl&theme=solarized-light&show_icons=true&count_private=true)"/>
-      <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SenaYcdl&layout=compact&langs_count=8&theme=solarized-light"/>
-</p>
+
 
 
 
@@ -26,6 +23,15 @@
 
 - ⭐ Fun fact: I love coding and my favorite programming language is Java and JavaScript. 
 
+
+
+
+
+
+<p align="center">
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SenaYcdl&theme=solarized-light&show_icons=true&count_private=true)"/>
+      <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SenaYcdl&layout=compact&langs_count=8&theme=solarized-light"/>
+</p>
 
 
 ![snake gif](https://github.com/SenaYcdl/SenaYcdl/blob/output/github-contribution-grid-snake.svg)
