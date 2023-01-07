@@ -39,7 +39,7 @@
 
 
   
-<img align=beside width=300 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/6477cd041380044bfad50d373d4d90ea.gif" />
+
 
 
 <!--[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sena-y%C3%BCcedal-98785a233/)
