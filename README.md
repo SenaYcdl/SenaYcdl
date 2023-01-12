@@ -28,8 +28,8 @@
  
 
 <p align="center">
-      <img height="160em" src="https://awesome-github-stats.azurewebsites.net/user-stats/SenaYcdl?cardType=github&theme=calm")
-      <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SenaYcdl&layout=compact&langs_count=8&theme=solarized-light"/>
+      <img height="160em" src="https://awesome-github-stats.azurewebsites.net/user-stats/SenaYcdl?cardType=github&theme=calm") />
+      <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SenaYcdl&layout=compact&langs_count=8&theme=calm"/>
 </p>
 
 
@@ -37,9 +37,6 @@
 
 
 
-
-
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/78317220/190580600-edd928b9-0191-4b8a-b1f5-b74fd09a5df4.gif)
 
   
 
