@@ -22,10 +22,12 @@
 
 
 
-
+  
+  
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/SenaYcdl?cardType=github&theme=synthwave)](https://git.io/awesome-stats-card)
+  
 
 <p align="center">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SenaYcdl&theme=solarized-light&show_icons=true&count_private=true)"/>
       <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SenaYcdl&layout=compact&langs_count=8&theme=solarized-light"/>
 </p>
 
