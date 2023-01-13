@@ -12,9 +12,9 @@
 
 - 🌼 I’m currently working on coding and testing
 
-- 🌺 I’m currently learning IT World
+- 🌺 I’m currently learning JavaScript
 
-- 💻 Ask me about Java, PostgreSQL, Selenium, API, Jenkins, Cucumber , Postman...
+- 💻 Ask me about Java, PostgreSQL, Selenium, API, Jenkins, Cucumber , Appium...
 
 - 💌 How to reach me: sena.ycdl61@gmail.com
 
