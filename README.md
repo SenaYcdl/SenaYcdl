@@ -52,8 +52,8 @@
 <hr>
 <br>
 
-<img align=right width=400 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/84237066d296f3eab99901a399e7a881.gif" />
-<img align=beside width=400 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/84237066d296f3eab99901a399e7a881.gif" />
+<img align=right width=350 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/84237066d296f3eab99901a399e7a881.gif" />
+<img align=beside width=350 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/84237066d296f3eab99901a399e7a881.gif" />
 
 
 
