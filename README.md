@@ -52,6 +52,13 @@
 <hr>
 <br>
 
+<img align=right width=400 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/84237066d296f3eab99901a399e7a881.gif" />
+<img align=beside width=400 src="https://github.com/SenaYcdl/SenaYcdl/blob/main/84237066d296f3eab99901a399e7a881.gif" />
+
+
+
+
+
 <!-- Connect with me
 <p align="left">
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
