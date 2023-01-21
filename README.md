@@ -51,7 +51,7 @@
 
 
 <p align="center">
-<img height="350em" src="https://github.com/SenaYcdl/SenaYcdl/blob/main/84237066d296f3eab99901a399e7a881.gif"/>
+<img height="350em" src="https://github.com/SenaYcdl/SenaYcdl/blob/main/84237066d296f3eab99901a399e7a881%20(1).gif"/>
 </p>
 
 
