@@ -22,7 +22,7 @@
 
 
 
-  
+
  <hr>
 <br>
   
@@ -32,8 +32,6 @@
       <img height="170em" src="https://awesome-github-stats.azurewebsites.net/user-stats/SenaYcdl?cardType=github&theme=monokai&Text=DD971A") />
       <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SenaYcdl&layout=compact&langs_count=8&theme=monokai&Text=DD971A"/>
 </p>
-
-
 
 
 
