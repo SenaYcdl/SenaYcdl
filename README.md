@@ -7,7 +7,6 @@
 <h3 align="center"></h3>
 
 
-
 - 🌼 I’m currently working on coding and testing
 
 - 🌺 I’m currently learning JavaScript
